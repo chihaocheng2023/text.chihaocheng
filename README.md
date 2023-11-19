@@ -1,2 +1,2 @@
 # text.chihaocheng
-My repository
+print("My repository")
